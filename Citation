@@ -1,0 +1,7 @@
+
+The implementation is deeply inspired from Deep3d paper from (Xie et al,2016) and uses portions of their code for our implementation 
+of 2d to 3d conversion from a tennis match video.
+
+The resulting output 3d video in anaglyph format is present in the folder "output-tennis.avi". 
+
+The training models are too big to put in along with the code.
